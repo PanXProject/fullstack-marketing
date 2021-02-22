@@ -1,4 +1,4 @@
-![Fullstack Marketing](https://github.com/PanXProject/fullstack-marketing/blob/main/media/fullstack-marketing.png)
+![Fullstack Marketing](https://github.com/PanXProject/Fullstack-Marketing/blob/main/media/Fullstack%20Marketing.png)
 
 # 🚀 Fullstack Marketing [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
